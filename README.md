@@ -1,8 +1,8 @@
-## Hola, mi nombre es Mario Andres 👋
-
 ![https://github.com/MAR16Y](./banner.jpg)
+
+## Hola, mi nombre es Mario 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Andres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mayepesg)
-<p> 💻 <b>Sobre Mi</b>💡📜
+<p> 💻 <b>Te cuento un poco sobre Mi</b>💡📜
 
 Soy ingeniero de software profisional desde 2017.
 
@@ -11,6 +11,8 @@ Desde muy joven, me he especializado en el análisis y gestión de datos, inicia
 A lo largo de mi trayectoria, he descubierto una gran pasión por la visualización de datos, transformándolos en informes interactivos y atractivos. He desarrollado dashboards en herramientas como Power BI para una variedad de sectores, incluidos ferretería, pesca, armamento y aseguradoras, adquiriendo agilidad en áreas funcionales como ventas, compras, logística y finanzas.
 
 Actualmente, estoy ampliando mis conocimientos en el ámbito del machine learning, mientras me capacito en Microsoft Fabric, para integrar soluciones más avanzadas e innovadoras en mis proyectos.
+
+## Tegnologias y herramientas
 <!--
 **MAR16Y/MAR16Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
