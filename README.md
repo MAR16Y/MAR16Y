@@ -1,8 +1,7 @@
 ## Hola, mi nombre es Mario Andres 👋
 
 ![https://github.com/MAR16Y](./banner.jpg)
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mayepesg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Andres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mayepesg)
 <p> 💻 <b>Sobre Mi</b>💡📜
 
 Soy ingeniero de software profisional desde 2017.
