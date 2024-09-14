@@ -1,5 +1,6 @@
 ## Hola, mi nombre es Mario Andres 👋
-### Analista de datos 📊
+
+![https://github.com/MAR16Y](./banner.jpg)
 
 ### Mis proyectos 
 
