@@ -13,6 +13,7 @@ A lo largo de mi trayectoria, he descubierto una gran pasión por la visualizaci
 Actualmente, estoy ampliando mis conocimientos en el ámbito del machine learning, mientras me capacito en Microsoft Fabric, para integrar soluciones más avanzadas e innovadoras en mis proyectos.
 
 ## Tegnologias y herramientas
+![https://github.com/MAR16Y](./Herramientas%20y%20Tegnologias.jpg)
 <!--
 **MAR16Y/MAR16Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
