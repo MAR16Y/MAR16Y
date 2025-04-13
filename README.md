@@ -14,17 +14,17 @@ Actualmente, estoy ampliando mis conocimientos en el ámbito del machine learnin
 
 ## Tegnologias y herramientas
 ![https://github.com/MAR16Y](./Herramientas%20y%20Tegnologias.jpg)
-<!--
-**MAR16Y/MAR16Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A continuación te muestro te muestro un pequeño abrebocas de lo que podrias tener en tu empresa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Dashboard - Compras / Análisis general
+____________________________________________________________________
+![https://github.com/MAR16Y](./An%C3%A1lisis%20general%20compras.png)
+
+#### Dashboard - Stock / Rotación de artículos 
+____________________________________________________________________
+![https://github.com/MAR16Y](./Rotación%20%20dias%20ventas.png)
+
+#### Dashboard - Comercial / Seguimiento de pedidos del dia en "tiempo real"
+____________________________________________________________________
+![https://github.com/MAR16Y](./Analisis%20de%20pedidos%20dias.png)
