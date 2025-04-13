@@ -10,7 +10,7 @@ Desde muy joven, me he especializado en el análisis y gestión de datos, inicia
 
 A lo largo de mi trayectoria, he descubierto una gran pasión por la visualización de datos, transformándolos en informes interactivos y atractivos. He desarrollado dashboards en herramientas como Power BI para una variedad de sectores, incluidos ferretería, pesca, armamento y aseguradoras, adquiriendo agilidad en áreas funcionales como ventas, compras, logística y finanzas.
 
-Actualmente, estoy ampliando mis conocimientos en el ámbito del machine learning, mientras me capacito en Microsoft Fabric, para integrar soluciones más avanzadas e innovadoras en mis proyectos.
+Actualmente, me encuentro desarrollando proyectos en Microsoft Fabric, donde diseño soluciones completas de analítica de datos. Hago uso de lenguajes como Python, PySpark y Spark SQL para llevar a cabo transformaciones complejas, además de implementar pipelines, lakehouses y data warehouses. Estos procesos culminan en dashboards desarrollados en Power BI, ofreciendo a los usuarios finales información confiable y lista para su análisis estratégico.
 
 ## Tegnologias y herramientas
 ![https://github.com/MAR16Y](./Herramientas%20y%20Tegnologias.jpg)
